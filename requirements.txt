@@ -20,6 +20,6 @@ request==2019.4.13
 six==1.14.0
 typed-ast==1.4.1
 typing-extensions==3.7.4.2
-urllib3==1.26.18
+urllib3==1.26.19
 wmctrl==0.3
 wrapt==1.11.2
